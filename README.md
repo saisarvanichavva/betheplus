@@ -5,4 +5,7 @@ Team members :
 1. Sankar
 2. Saketh
 3. Sai Renuka
-6.sai sarvani
+4. Balasri
+5. Yerusha
+6. Navya Ravuri
+7. Sai Sarvani
